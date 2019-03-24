@@ -1,0 +1,36 @@
+
+ ***** Hash Table *****
+
+globalDepth :: 2
+localDepth ::| Elements |
+2 :: | 16 32 |
+2 :: | |
+2 :: | |
+2 :: | |
+
+
+ ***** Hash Table *****
+
+globalDepth :: 5
+localDepth ::| Elements |
+5 :: | 32 0 |
+2 :: | |
+2 :: | |
+2 :: | |
+3 :: | |
+4 :: | |
+5 :: | 16 |
+
+
+ ***** Hash Table *****
+
+globalDepth :: 6
+localDepth ::| Elements |
+6 :: | 0 64 |
+2 :: | |
+2 :: | |
+2 :: | |
+3 :: | |
+4 :: | |
+5 :: | 16 |
+6 :: | 32 |
