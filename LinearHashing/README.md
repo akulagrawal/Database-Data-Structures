@@ -1,0 +1,1 @@
+Try maintaining an array of pointers pointing to lists instead of maintaining an array of lists.
